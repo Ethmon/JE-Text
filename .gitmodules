@@ -1,0 +1,6 @@
+[submodule "JE"]
+	path = JE
+	url = https://github.com/Ethmon/JE
+[submodule "JE-imports"]
+	path = JE-imports
+	url = https://github.com/Ethmon/JE-imports
